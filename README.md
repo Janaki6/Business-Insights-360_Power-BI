@@ -79,7 +79,15 @@ o	Similar to the fact_forecast_monthly table, but with actual sold quantities.
 
 •	**COGS (Cost of Goods Sold)**: Manufacturing cost + Freight cost (Transportation) + other cost
 
-•	**Gross Margin** : Nest Sales – COGS cost
+•	**Gross Margin** : Net Sales – COGS cost
+
+•	**Net Profit** : Gross Margin – Operational Expenses
+
+•	**Net Error** :  Forecast Quantity– Actual Quantity
+
+•	**Abs Error** :  ABS(Net error)
+
+•	**Forecast Accuracy** :  1 - Abs Error %
 
 **Import data to Power BI**
 
