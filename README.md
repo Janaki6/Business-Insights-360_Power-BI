@@ -1,7 +1,7 @@
 # Business-Insights-360
 
 Link to Business Insights 360 Presentation document
-Link to Live Interactive DashBoard: Power BI DashBoard
+Link to Live Interactive DashBoard: [Power BI DashBoard](https://app.powerbi.com/groups/5082762d-bb99-48de-9870-8a8aaa8553d7/reports/2f3ee310-07f4-47de-abb6-ea35c345e74d/ReportSection375f6b10035b2ce223b8?experience=power-bi)
 
 **Project Overview**
 
