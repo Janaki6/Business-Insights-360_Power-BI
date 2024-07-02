@@ -103,26 +103,22 @@ In the Home view, all the view buttons will be accessible. Users will land on sp
 
 **The different views are:**
 
-**Info**	It gives an overview of the fundamental data generation process and used to notify updates
+**Info**: User manual and get to know the key information of this tool.
 
-**Finance**	It enables users to analyze P&L statements, understanding the net sales and exploring other fiscal metrics
+**Finance**: It enables users to analyze P&L statements for any customer/product/country, understanding the net sales and exploring other fiscal metrics
 
-**Sales**	It shows a detailed analysis of sales efforts, supporting in improvement of strategy and informed decision making
+**Sales**: Analyzing the performance of customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-**Marketing**	It shows the customer engagement, impact of the product and market research which empowers stakeholders to redefine their marketing strategy
+**Marketing**: Analyzing the performance of product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-**Supply Chain**	It provides insights into inventory levels, order fulfilments and logistics which facilitates streamlined operations
+**Supply Chain**:	Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
 
-**Executive**	It presents some of the important KPI's and tracks market shares trends
+**Executive**:	A top level dashboard for executives consolidating top insights from all dimensions of business.
 
-**Support**	It provides support measures for the customers who are facing issues
+**Support**: Issues resolution by connecting to support specialist.
 
 **Project Outcomes**
 
 This dashboard helps with various business questions in different situations. It enables data-driven decisions to make AtliQ more profitable. It uses data to answer many 'why' questions in different scenarios.
-
-**The Goals and successes:**
-
-![image](https://github.com/Janaki6/Business-Insights-360/assets/168548897/7a63a498-7bf0-4537-add2-06565bb5172f)
 
 
