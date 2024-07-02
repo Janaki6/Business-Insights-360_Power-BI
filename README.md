@@ -13,15 +13,18 @@ and have assigned a team for this work.
 **About AtliQ Hardware**
 
 AtliQ Hardware is a rapidly growing company that operates globally. They sell computer and computer accessories through three channels:
+
 •	Retailers
+
 •	Direct
+
 •	Distributors
 
-**Import & Explore Data**
 
 **Importing Data into SQL**
 
 Importing the AtliQ's data into the MySQL Workbench. The data includes both fact and dimension tables.
+
 
 **Tables:**
 
@@ -83,11 +86,11 @@ After exploring the data, we now connect and load the AtliQ's data from MySQL da
 
 **Data Modelling**
 
-Cleaning, formatting and transforming the data using power query
-   
-Establishing relationships among the tables, employing either Star Schema or the Snow Flake methodology.
-   
-Subsequently, conducting data validation against the benchmarks set by the stakeholders
+•	Cleaning, formatting and transforming the data using power query
+
+•	Establishing relationships among the tables, employing either Star Schema or the Snow Flake methodology.
+
+•	Subsequently, conducting data validation against the benchmarks set by the stakeholders
    
 **Dashboard Designing**
 
@@ -97,9 +100,8 @@ Based on mockups received as requirements, the team will start designing visuals
 
 In the Home view, all the view buttons will be accessible. Users will land on specific view pages by clicking the button and you can navigate to the certain view.
 
-**The different views are:**
 
-**Views	Description**
+**The different views are:**
 
 **Info**	It gives an overview of the fundamental data generation process and used to notify updates
 
