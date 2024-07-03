@@ -140,7 +140,8 @@ This dashboard helps with various business questions in different situations. It
 
 **Supply Chain View**
 
-![image](https://github.com/Janaki6/Business-Insights-360_Power-BI/assets/168548897/72bbc45d-e360-4bb7-be2d-b71c653d6b53)
+![image](https://github.com/Janaki6/Business-Insights-360_Power-BI/assets/168548897/44bec387-6425-4919-abfc-5c5df88f4ef4)
+
 
 **Sales View**
 
