@@ -130,4 +130,7 @@ In the Home view, all the view buttons will be accessible. Users will land on sp
 
 This dashboard helps with various business questions in different situations. It enables data-driven decisions to make AtliQ more profitable. It uses data to answer many 'why' questions in different scenarios.
 
+**Home page**
+
+![image](https://github.com/Janaki6/Business-Insights-360_Power-BI/assets/168548897/537349f7-5775-4e62-937d-88d398a2d2f7)
 
