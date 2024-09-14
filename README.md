@@ -2,7 +2,7 @@
 
 Link to Business Insights 360 [Presentation document](https://github.com/Janaki6/Business-Insights-360_Power-BI/blob/main/Business%20Insights%20360.pptx)
 
-Link to Live Interactive DashBoard: [Power BI DashBoard](https://app.powerbi.com/groups/5082762d-bb99-48de-9870-8a8aaa8553d7/reports/2f3ee310-07f4-47de-abb6-ea35c345e74d/ReportSection375f6b10035b2ce223b8)
+Link to Live Interactive DashBoard: [Power BI DashBoard](https://app.powerbi.com/view?r=eyJrIjoiZWY2NTM5NGQtNWZkMC00YzMzLWEyODgtZThmMzM3Y2Q1ODQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Project Overview**
 
